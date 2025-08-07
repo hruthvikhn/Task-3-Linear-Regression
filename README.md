@@ -5,16 +5,16 @@ Hi there! This repo contains my implementation of **Linear Regression & Multiple
 
 ## What This Covers
 
-Imported and preprocessed real-world flight pricing data from Kaggle
-Encoded categorical variables using one-hot encoding
-Trained a **multiple linear regression** model using Scikit-learn
-Evaluated model performance with:
-- MAE (Mean Absolute Error)
-- MSE (Mean Squared Error)
-- R² Score
+- Imported and preprocessed real-world flight pricing data from Kaggle
+- Encoded categorical variables using one-hot encoding
+- Trained a **multiple linear regression** model using Scikit-learn
+- Evaluated model performance with:
+     - MAE (Mean Absolute Error)
+     - MSE (Mean Squared Error)
+     - R² Score
 
-Interpreted feature coefficients  
-Visualized actual vs predicted prices using Matplotlib
+- Interpreted feature coefficients  
+- Visualized actual vs predicted prices using Matplotlib
 
 
 ## Key Learnings
